@@ -1,0 +1,22 @@
+{
+    "1": {
+        "name": "Veg Biryani",
+        "price": 120
+    },
+    "2": {
+        "name": "Chicken Biryani",
+        "price": 150
+    },
+    "3": {
+        "name": "Gobi Manchurian",
+        "price": 90
+    },
+    "4": {
+        "name": "Gulab Jamun",
+        "price": 40
+    },
+    "5": {
+        "name": "Coca-Cola",
+        "price": 30
+    }
+}
